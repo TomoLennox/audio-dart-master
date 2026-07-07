@@ -1,0 +1,25 @@
+30 Return policy:
+You may return the product, for any reason, within 30 days of purchase, with the following limitations:
+We will refund the purchase price of the product, but not the shipping costs.
+If the product is damaged, we will reduce the refund by the cost to repair or replace parts.
+If you have purchased through a reseller, the reseller may have a return fee.
+Please call to arrange return shipping.
+
+1 Year warrantee on parts and labor:
+If the product fails within the first year, we will replace or repair any defective parts. 
+Call or write to us, so that we can diagnose the problem.  If the product needs to be shipped 
+back to repair something defective, we will pay the shipping in both directions.
+Limitations:  You must call or write to us in advance to make arrangements.
+If the cause of the problem was something that you did, you will have to pay for the shipping and repair.
+
+Upgrades:
+Software upgrades within a major release are free.  If the upgrade is necessary to fix a serious bug, 
+we will pay for shipping.  If you want an upgrade to add features, you must pay for shipping.  
+Limitations: We hope to make all future releases free, but we reserve the right to charge 
+for major releases with significant new features.
+
+Phone Support:
+If you need help operating any of our products, call us for telephone support.  
+If you are not the original purchaser of the product,  give us the serial number, 
+which is given on the first page of the instructions (spoken on the board).
+
